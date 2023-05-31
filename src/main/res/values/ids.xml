@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_next" type="id" />
+    <item name="text_question" type="id" />
+    <item name="button_true" type="id" />
+    <item name="button_false" type="id" />
+</resources>
